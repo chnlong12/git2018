@@ -8,7 +8,7 @@ Add new line here 23:15
 $ git add readme.txt
 $ git commit -m "infomation"
 
-here is new line.
+here is new line. is that ok?
 
 现在总结一下今天学的两点内容：
 
